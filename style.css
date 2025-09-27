@@ -56,7 +56,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.header-menu lu{
+.header-menu ul{
     display: flex;
     width: 50%;
     height: 80%;
@@ -409,6 +409,7 @@ body{
     font-size: 10px;
     color: #E2F1E7;
 }
+
 
 
 
