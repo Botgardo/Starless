@@ -90,7 +90,7 @@ body{
 }
 
 .home{
-    width: 100vw;
+    width: 100%;
     height: 90vh;
     display: flex;
     justify-content: center;
@@ -134,7 +134,7 @@ body{
     color: #E2F1E7;
 }
 .introduccion{
-    width: 100vw;
+    width: 100%;
     background-color: #E2F1E7;
     padding-top: 100px;
     margin: 150px 0;
@@ -192,7 +192,7 @@ body{
 }
 
 .about{
-    width: 100vw;
+    width: 100%;
     padding-top: 50px;
     padding-bottom: 0px;
     position: relative;
@@ -279,7 +279,7 @@ body{
     padding-top: 100PX;
 }
 .contact-contain{
-    width: 100vw;
+    width: 100%;
 }
 .contact-subtitle{
     width: 100%;
@@ -408,5 +408,6 @@ body{
     font-size: 10px;
     color: #E2F1E7;
 }
+
 
 
