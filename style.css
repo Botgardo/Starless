@@ -272,7 +272,7 @@ body{
 }
 .contact{
     background-color: #E2F1E7;
-    width: 100vw;
+    width: 100%;
     position: relative;
     margin: 200px 0;
     height: 400px;
@@ -408,6 +408,7 @@ body{
     font-size: 10px;
     color: #E2F1E7;
 }
+
 
 
 
