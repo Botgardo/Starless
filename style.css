@@ -20,7 +20,7 @@ body{
     background-position: center center;
     background-attachment: fixed;
     font-family: "Roboto Mono", monospace;
-    width: 100vw;
+    width: 100%;
 }
 .container{
     max-width: 1200px;
@@ -408,3 +408,4 @@ body{
     font-size: 10px;
     color: #E2F1E7;
 }
+
